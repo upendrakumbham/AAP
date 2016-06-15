@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="AAP-Data-Model" external.linked.project.path="$MODULE_DIR$/../../AAP-Data-Model" external.root.project.path="$MODULE_DIR$/../../AAP-Data-Model" external.system.id="GRADLE" external.system.module.group="" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../AAP-Data-Model">
+      <excludeFolder url="file://$MODULE_DIR$/../../AAP-Data-Model/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../AAP-Data-Model/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-core:4.2.6.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-jpa:1.9.4.RELEASE" level="project" />
+  </component>
+</module>

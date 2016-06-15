@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="AAP-Authorisation-Service">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/AAP_Authorisation_Service_jar/AAP-Authorisation-Service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/out/artifacts/AAP_Authorisation_Service_jar/AAP-Authorisation-Service.jar!/" recursive="false" />
+  </library>
+</component>

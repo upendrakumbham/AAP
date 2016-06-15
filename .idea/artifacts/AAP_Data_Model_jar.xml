@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AAP-Data-Model:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AAP_Data_Model_jar</output-path>
+    <root id="archive" name="AAP-Data-Model.jar">
+      <element id="library" level="project" name="AAP-Authorisation-Service" />
+      <element id="archive" name="AAP-Data-Model.jar">
+        <element id="module-output" name="AAP-Data-Model" />
+        <element id="library" level="project" name="Gradle: org.springframework.data:spring-data-jpa:1.9.4.RELEASE" />
+        <element id="library" level="project" name="Gradle: org.springframework:spring-core:4.2.6.RELEASE" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/AAP-Data-Model/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

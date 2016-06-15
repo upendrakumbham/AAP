@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AAP.iml" filepath="$PROJECT_DIR$/.idea/modules/AAP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AAP-API.iml" filepath="$PROJECT_DIR$/.idea/modules/AAP-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AAP-API_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AAP-API_main.iml" group="AAP-API" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AAP-API_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AAP-API_test.iml" group="AAP-API" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AAP-Authorisation-Service.iml" filepath="$PROJECT_DIR$/.idea/modules/AAP-Authorisation-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AAP-Authorisation-Service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AAP-Authorisation-Service_main.iml" group="AAP-Authorisation-Service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AAP-Authorisation-Service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AAP-Authorisation-Service_test.iml" group="AAP-Authorisation-Service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AAP-Data-Model.iml" filepath="$PROJECT_DIR$/.idea/modules/AAP-Data-Model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AAP-Data-Model_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AAP-Data-Model_main.iml" group="AAP-Data-Model" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AAP-Data-Model_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AAP-Data-Model_test.iml" group="AAP-Data-Model" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AAPService.iml" filepath="$PROJECT_DIR$/.idea/modules/AAPService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AAPService_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AAPService_main.iml" group="AAPService" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AAPService_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AAPService_test.iml" group="AAPService" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AAP_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AAP_main.iml" group="AAP" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AAP_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AAP_test.iml" group="AAP" />
+    </modules>
+  </component>
+</project>

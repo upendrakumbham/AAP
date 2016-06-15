@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="HSQLDB (Local) - test" uuid="efa92d34-e684-440e-bbb6-2d8fe75bd103">
+      <secret-storage>memory</secret-storage>
+      <user-name>sa</user-name>
+      <schema-pattern>PUBLIC.PUBLIC</schema-pattern>
+      <default-schemas>PUBLIC.PUBLIC</default-schemas>
+    </data-source>
+    <data-source name="HSQLDB (Local) -" uuid="c8c73016-7283-41ba-9a8a-87fb044bae8b">
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="HSQLDB (Local) - [2]" uuid="ae449036-f64f-43f5-80bd-dc4fa95d3187">
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+    </data-source>
+  </component>
+</project>

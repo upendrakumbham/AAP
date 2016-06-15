@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="853876534">
+    <data-source source="LOCAL" name="HSQLDB (Local) - test" uuid="efa92d34-e684-440e-bbb6-2d8fe75bd103">
+      <driver-ref>hsqldb.local</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.hsqldb.jdbc.JDBCDriver</jdbc-driver>
+      <jdbc-url>jdbc:hsqldb:file:C:/test/aap_test1</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="HSQLDB (Local) -" uuid="c8c73016-7283-41ba-9a8a-87fb044bae8b">
+      <driver-ref>hsqldb.local</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.hsqldb.jdbc.JDBCDriver</jdbc-driver>
+    </data-source>
+    <data-source source="LOCAL" name="HSQLDB (Local) - [2]" uuid="ae449036-f64f-43f5-80bd-dc4fa95d3187">
+      <driver-ref>hsqldb.local</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.hsqldb.jdbc.JDBCDriver</jdbc-driver>
+    </data-source>
+  </component>
+</project>
